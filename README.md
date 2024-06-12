@@ -1,4 +1,14 @@
-# jumpcursor.vim
+jumpcursor.vim
+================================================================================
+の改造バージョン。pulugin の改造のお遊び
+
+- マーカーの枯渇対応【未】
+- マルチバイト文字対応【未】
+- 横方向指定を別行表示【未】
+
+
+
+
 ## **THIS PLUGIN IS AN EXPERIMENTAL ONE.**
 
 With this plugin, you can move cursor anywhere you want.  
